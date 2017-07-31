@@ -1,6 +1,6 @@
 # PaForms - Project to develop Planning Assessment Forms. 
 
-# Backend built with Express.js
-# Frontend built with React
+- Back-end built with Express.js
+- Front-end built with React.js
 
-# Everything else built by me and powered by 🍩🍩🍩
+- Everything else built by me and powered by 🍩🍩🍩
